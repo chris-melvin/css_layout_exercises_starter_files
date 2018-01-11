@@ -1,0 +1,50 @@
+.main {
+    border: 1px solid black;
+    font-size: 0;
+    max-width: 800px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+}
+
+.first-row {
+    display: inline-block;
+    height: 200px;
+    border: 1px solid black;
+    width: 50%;
+}
+.second-row {
+    display: inline-block;
+    height: 300px;
+    width: 33.33%;
+    border: 1px solid black;
+}
+.box-1 {
+   
+    background-color: green;
+    
+}
+
+.box-2 {
+
+    background-color: blue;
+}
+
+.box-3 {
+    
+    background-color: gray;
+    
+}
+
+.box-4 {
+   
+    background-color: black;
+  
+}
+
+.box-5 {
+      
+    background-color: orange;
+   
+}
